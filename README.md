@@ -1,18 +1,18 @@
 ## Hello! 👋 (Again)
 
-# I Am a (Not) Professional Developer
+### I Am a (Not) Professional Developer
 
 If I learn how to build an app for iOS without a Mac or Xcode, I’ll publish it on AltStore! Why without a Mac or Xcode? Because I don’t have the money. Why on AltStore? Because I don’t have the money.
 
-# Who Am I?
+### Who Am I?
 
 I'm a Femboy Developer Who's Fed Up with My Conservative Family! Or at least I'm trying to learn. I'm planning to learn how to write software using Flutter and NW.js. If I manage to learn them, I'll post a logo of what I've learned here. (I hope they don’t notice this account)
 
-# Why “Again”?
+### Why “Again”?
 
 Because my old account was closed :D I created a SideStore repo containing a few games from the Apple Arcade 2024 leaks, and my account got suspended because of that repo :D (The source I used was the Internet Archive)
 
-### The Femboy (And Software Developer) of the Future! :3
+# The Femboy (And Software Developer) of the Future! :3
 
 <!--
 **ols-again/ols-again** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
