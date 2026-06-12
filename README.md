@@ -6,7 +6,7 @@ If I learn how to build an app for iOS without a Mac or Xcode, I’ll publish it
 
 ### Who Am I?
 
-I'm a Femboy Developer Who's Fed Up with My Conservative Family! Or at least I'm trying to learn. I'm planning to learn how to write software using Flutter and NW.js. If I manage to learn them, I'll post a logo of what I've learned here. (I hope they don’t notice this account)
+I'm a Femboy Developer Who's Fed Up with My Conservative Family! (I hope they don’t notice this account) Or at least I'm trying to learn. I'm planning to learn how to write software using Flutter and NW.js.
 
 ### Why “Again”?
 
